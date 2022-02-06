@@ -17,7 +17,7 @@ Maksud dari int di depan main adalah tipe data yang akan dikembalikan. Maka di d
 Kurung kurawal dinamakan block statement yang gunanya untuk mengurung beberapa statement menjadi 1 statement.
 
 
- float l, r;
+ float L, p, l;
 
 float digunakan untuk menampung angka pecahan. Luas dengan tipe float digunakan untuk menampilkan hasil dari perhitungan luas persegi panjang dengan format bilangan pecahan.
 
